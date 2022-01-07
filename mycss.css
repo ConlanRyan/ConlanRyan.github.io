@@ -2,11 +2,7 @@ table, th, td {
   border: 1px solid white;
 }
 
-#lfttxt {
+#txt {
   color: white;
   align: left;
-}
-#cnttxt {
-  color: white;
-  align: center;
 }
