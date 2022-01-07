@@ -2,7 +2,14 @@ table, th, td {
   border: 1px solid white;
 }
 
-#txt {
+#txtl {
   color: white;
   align: left;
 }
+
+#txtc {
+  color: white;
+  align: center;
+}
+
+td:hover {background-color: yellow;}
