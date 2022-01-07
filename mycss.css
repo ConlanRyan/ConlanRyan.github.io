@@ -1,5 +1,6 @@
 table, th, td {
   border: 1px solid white;
+  font-size: 200%;
 }
 
 #txtl {
@@ -13,6 +14,3 @@ table, th, td {
 }
 
 td:hover {background-color: yellow;}
-td { 
-font-size: "200%";
-}
