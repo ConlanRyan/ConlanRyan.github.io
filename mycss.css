@@ -1,6 +1,7 @@
 table, th, td {
   border: 1px solid white;
   font-size: 150%;
+  onclick="clickedRow()"
 }
 
 #txtl {
