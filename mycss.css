@@ -4,6 +4,10 @@ table, th, td {
   align: center;
 }
 
+@font-face { 
+  font-family: schlop; src: url('schlop rg.ttf'); 
+} 
+
 #txtl {
   color: white;
   align: left;
