@@ -3,7 +3,6 @@ table, th, td {
   font-size: 125%;
   text-align:center;
 }
-
 @font-face { 
   font-family: schlop; src: url('schlop rg.ttf'); 
 } 
@@ -17,5 +16,12 @@ table, th, td {
   color: white;
   align: center;
 }
+
+//this creates a class called "center" that I can apply to things to center them
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 td:hover {background-color: yellow;}
