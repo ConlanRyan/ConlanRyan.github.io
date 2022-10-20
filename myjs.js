@@ -1,5 +1,3 @@
-clickedRow(){ 
-  document.getElementById("txtc").innerHTML = "New text!";
-
-
+function onClick(){ 
+  document.getElementById("music").innerHTML = "New text!";
 }
