@@ -4,6 +4,6 @@ function gotoMusic(){
 function gotoMain(){
   window.location.href = "index.html";
 }
-function changeBackground() {
-   document.body.style.background = "#eb4034";
+function changeBackground(color) {
+   document.body.style.background = color;
 }
